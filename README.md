@@ -1,1 +1,1 @@
-nothing
+❯ python  a.py  --image test_image.jpg --east frozen_east_text_detection_copy.pb
